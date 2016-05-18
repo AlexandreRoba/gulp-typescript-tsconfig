@@ -19,5 +19,13 @@
   "bugs": {
     "url": "https://github.com/AlexandreRoba/gulp-typescript-tsconfig/issues"
   },
-  "homepage": "https://github.com/AlexandreRoba/gulp-typescript-tsconfig#readme"
+  "homepage": "https://github.com/AlexandreRoba/gulp-typescript-tsconfig#readme",
+  "dependencies": {
+    "gulp-util": "^3.0.7",
+    "through2": "^2.0.1"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  }
 }
