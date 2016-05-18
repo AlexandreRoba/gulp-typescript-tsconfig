@@ -1,0 +1,23 @@
+{
+  "name": "gulp-typescript-tsconfig",
+  "version": "0.0.1",
+  "description": "A Gulp plugin to transpile Typescript project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexandreRoba/gulp-typescript-tsconfig.git"
+  },
+  "keywords": [
+    "Gulp",
+    "TypeScript"
+  ],
+  "author": "Alexandre Roba",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexandreRoba/gulp-typescript-tsconfig/issues"
+  },
+  "homepage": "https://github.com/AlexandreRoba/gulp-typescript-tsconfig#readme"
+}
